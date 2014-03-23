@@ -1,9 +1,9 @@
-pyAlsaCap
+PyAlsaCap
 =========
 
-PyAlsaCap is a tool inspired from `alsacap` written by [Volker Schatz](http://www.volkerschatz.com/profile.html)
+PyAlsaCap is a tool inspired from `alsacap` written by [Volker Schatz](http://www.volkerschatz.com/profile.html).
 
-`alsacap` is a C command line tool allowing user to query soundcards (formats, capabilities), `pyalsacap.py` is an Python 3 alsacap clone that mimic alsacap.
+`alsacap` is a C command line tool allowing user to query soundcards (formats, capabilities), `pyalsacap.py` is a Python 3 alsacap clone that mimic alsacap.
 PyAlsaCap can also be used as a Python module, because it does not only print sound card information but alsa generates a Python3 data structure with this informations.
 
 PyAlsaCap query directly libasound2 alsa C-library using Python `ctypes` module.
@@ -111,6 +111,6 @@ Useful links:
 
 * [Volker Schatz's alsacap source code](http://www.volkerschatz.com/noise/alsacap.c);
 * [PyAlsaCap : Python, pointeurs, et cartes sons…](http://linuxfr.org/users/illwieckz/journaux/pyalsacap-python-pointeurs-et-cartes-sons), a french blog entry that present the first public version of pyAlsaCap with some explanation (can be used as a french tutorial for programming in Python with ctypes);
-* [Python officiel website](https://www.python.org/);
-* [Python ctypes module](http://docs.python.org/dev/library/ctypes.html);
+* [Python official website](https://www.python.org/);
+* [Python ctypes module documentation](http://docs.python.org/dev/library/ctypes.html);
 * [Advanced Linux Sound Architecture (ALSA) project homepage](http://www.alsa-project.org).
