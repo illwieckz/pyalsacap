@@ -3,7 +3,7 @@ PyAlsaCap
 
 PyAlsaCap is a tool inspired from `alsacap` written by [Volker Schatz](http://www.volkerschatz.com/profile.html).
 
-`alsacap` is a C command line tool allowing user to query soundcards (formats, capabilities), `pyalsacap.py` is a Python 3 alsacap clone that mimic alsacap.
+`alsacap` is a C command line tool allowing user to query soundcards (formats, capabilities), [`pyalsacap.py`](pyalsacap.py) is a Python 3 alsacap clone that mimic alsacap.
 PyAlsaCap can also be used as a Python module, because it does not only print sound card information but alsa generates a Python3 data structure with this informations.
 
 PyAlsaCap query directly libasound2 alsa C-library using Python `ctypes` module.
