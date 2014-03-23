@@ -99,7 +99,7 @@ Author
 
 PyAlsaCap is written by Thomas Debesse <pyalsacap@illwieckz.net>.
 
-Original `alsacap` is written by Volker Schatz <alsacap on the volkerschatz.com domain>.
+Original `alsacap` is written by Volker Schatz (alsacap on the volkerschatz.com domain).
 
 License
 -------
